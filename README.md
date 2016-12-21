@@ -8,4 +8,4 @@ $ ./node_modules/mocha/bin/mocha -t 10000 exeFirst.js
 ```
 selenium-webdriver for nodejs
 
-https://seleniumhq.github.io/
+https://seleniumhq.github.io/selenium/docs/api/javascript/
